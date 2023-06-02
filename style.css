@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+.container-personal{
+    width: 750px;
+}
+p {
+    font-weight: 400;
+    font-size: 16px;
+}
+#contenedor{
+    display: inline-block;
+    min-width: 100px;
+    cursor: pointer;
+  }
+  h2 {
+    font-size: 1px;
+  }
+  
+  #texto{
+    background-color: rgba(128, 128, 128, 0.171);
+    width: 758px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+.form-label {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 22px;
+    text-align: center;
+    background-color: #BDBDBD;
+}
+.container {
+    display: flex;
+    justify-content: center;
+
+}
